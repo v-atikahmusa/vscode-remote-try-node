@@ -1,1 +1,1 @@
-klmbdgf 
+klmbdgf echo $A
